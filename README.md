@@ -1,4 +1,4 @@
-Evented I/O for V8 javascript.
+Reid's Evented I/O for V8 javascript.
 ===
 
 ### To build:
